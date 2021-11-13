@@ -1,2 +1,4 @@
-# e2e_test
-Testing
+# install dependencies
+$ npm install cypress
+# run test
+$ npx cypress open
